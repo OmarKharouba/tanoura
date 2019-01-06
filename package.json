@@ -1,0 +1,27 @@
+{
+  "name": "tanoura",
+  "version": "1.0.0",
+  "description": "Tanoura Online Shop",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarKharouba/tanoura.git"
+  },
+  "keywords": [
+    "tanoura"
+  ],
+  "author": "Kharouba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarKharouba/tanoura/issues"
+  },
+  "homepage": "https://github.com/OmarKharouba/tanoura#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.2",
+    "nodemon": "^1.18.9"
+  }
+}
